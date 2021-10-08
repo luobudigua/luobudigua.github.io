@@ -7,7 +7,7 @@
       <p><b>邮箱：3135671279@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="  ‪C:\Users\hp\Pictures\Saved Pictures\微信图片_20211008123025.jpg">
+      <img src="微信图片_20211008123025.jpg">
     </td>
   </tr>
 </table>  
