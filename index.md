@@ -7,7 +7,7 @@
       <p><b>邮箱：3135671279@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="微信图片_20211008123025.jpg">
+      <img src="https://github.com/luobudigua/luobudigua.github.io/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211008123025.jpg">
     </td>
   </tr>
 </table>  
