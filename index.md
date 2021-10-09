@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html lang="zh-cn">
   <head>
-    <meta charset="utf-8">
-    <title>关于本人的一些信息</title>
+    <meta charset="utf-8">    
     <body>
       <h1>基本情况</h1>
       <ol>
