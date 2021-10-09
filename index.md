@@ -15,6 +15,6 @@
           <a href="http://wgxj.nc.gov.cn/">欢迎大家到南昌玩！</a></li>
       </ol>
       <h2>照片</h2>
-        <img src="
+        <img src="微信图片_20211008123025.jpg">
       
       
