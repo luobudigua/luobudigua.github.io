@@ -1,14 +1,20 @@
-### 个人信息
-#### 姓名 胡彬斌
-#### 学历 本科
-#### 学校 北京大学
-#### 邮箱 3135671279@qq.com
-#### 地址 北京大学宿舍44楼
-### 最新消息
-#### 消息一 xxx
-### 荣誉奖励
-- 奖学金 暂无
-- 荣誉称号 暂无
-- 比赛获奖 暂无
-### 其他特长
-- 学过一些吉他
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <title>关于本人的一些信息</title>
+    <body>
+      <h1>基本情况</h1>
+      <ol>
+        <li>姓名：胡彬斌</li>
+        <li>年龄：17</li>
+        <li>学校：北京大学</li>
+        <li>院系：药学</li>
+        <li>家乡：江西南昌
+        <img src="https://p3.ssl.qhimg.com/dm/180_90_/t0165f83ba3164d3e2a.jpg">
+          <a href="http://wgxj.nc.gov.cn/">欢迎大家到南昌玩！</a></li>
+      </ol>
+      <h2>照片</h2>
+        <img src="
+      
+      
