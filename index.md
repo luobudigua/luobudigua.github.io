@@ -3,7 +3,6 @@
   <head>
     <meta charset="utf-8">
     <title>关于本人的一些信息</title>
-    <link href="style.css"typr="text/css"/>
     <body>
       <h1>基本情况</h1>
       <ol>
