@@ -1,6 +1,8 @@
+<!DIOTYPE html>
 <html lang="zh-cn">
   <head>
-    <meta charset="utf-8">    
+    <meta charset="utf-8">
+    <link href="style.css"rel="stylesheet"typr="text/css"/>
     <body>
       <h1>基本情况</h1>
       <ol>
